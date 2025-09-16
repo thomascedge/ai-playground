@@ -214,6 +214,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-language_detection_app/Dockerfile
-language_detection_app/.dockerignore
